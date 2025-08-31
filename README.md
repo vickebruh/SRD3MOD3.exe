@@ -1,7 +1,8 @@
 # SRD3MOD3.exe
 gdi malware by me 
 
-
+RUN IN A VM!111!!!11
+DOES OVERWRITE THE MBR!!!
 
 
 
